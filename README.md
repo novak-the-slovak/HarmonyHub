@@ -13,7 +13,10 @@
 3. New Yahoo Email with name HarmonyHub<br>
 4. Spotify Accounts should be unique for all users <br>
 5. Implement Redis Based Caching to store user's spotify data for next 24 hours. Try utilising the CachingDecorator to achieve this. <br>
-6. Provide Spotify-Sign-Up option, along with the currently present email-pass registeration. <br>
+6. De-couple the currently present Email-Password based sign in option from the App.
+7. Provide Spotify-Sign-Up option.
+8. Design and implement a framework which allows the developer to add/remove sign up methods on a whim. Spotify sign-ins will always be present but maybe I want to have the email-based sign in as well, or not.
+9. If you're using a free plan for GEN-AI, make sure that you show an error message that let's people know upfront that they won't be able to generate content untill HH:MM hrs.
 
 -> Class Diagrams for the backend models <br>
 -> Session Management Diagram for HH <br>
