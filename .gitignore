@@ -26,6 +26,3 @@ frontend/.vscode/
 .eslintcache
 .DS_Store
 .VSCodeCounter
-
-# .gitignore itself
-.gitignore
